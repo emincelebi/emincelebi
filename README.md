@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Emin Çelebi</h1>
-<h3 align="center">I am a 4th year software engineering student. I'm working on mobile programming</h3>
+<h3 align="center">I am a software engineer. I'm working on mobile and backend programming</h3>
 
 - 🔭 I’m currently working on **Mobile Programming**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently developing **Flutter**
+
+- 🌱 I’m currently learning **.NET**
 
 - 📫 How to reach me **emincelebi.sw@gmail.com**
 
